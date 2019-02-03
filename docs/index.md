@@ -13,4 +13,4 @@
 
 ## 加入我们
 
-[从未用过的~~DND~~跑团群](https://jq.qq.com/?_wv=1027&k=5Iu0KID "上东研·跑团的里技")
+[没人说话的DND交流群](https://jq.qq.com/?_wv=1027&k=5Iu0KID "上东研·跑团的里技")
