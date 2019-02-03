@@ -1,0 +1,14 @@
+site_name: 圣土世界
+site_description: 圣土世界相关设定（DND3R）
+site_author: langzaigg
+site_url: https://langzaigg.github.io/TheSacredSoil/
+
+repo_name: 'langzaigg/TheSacredSoil'
+repo_url: 'https://github.com/langzaigg/TheSacredSoil'
+
+theme: 
+  name: readthedocs
+  language: 'zh'
+extra:
+  search:
+    language: 'jp'
