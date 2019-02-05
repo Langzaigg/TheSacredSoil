@@ -12,3 +12,6 @@ theme:
 extra:
   search:
     language: 'jp'
+  palette:
+    primary: 'Deep Purple'
+    accent: 'Pink'
