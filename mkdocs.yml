@@ -7,8 +7,8 @@ repo_name: 'langzaigg/TheSacredSoil'
 repo_url: 'https://github.com/langzaigg/TheSacredSoil'
 
 theme: 
-  name: readthedocs
+  name: material
   language: 'zh'
 extra:
   search:
-    language: 'zh'
+    language: 'jp'
