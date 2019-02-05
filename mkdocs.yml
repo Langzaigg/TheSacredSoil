@@ -9,9 +9,10 @@ repo_url: 'https://github.com/langzaigg/TheSacredSoil'
 theme: 
   name: material
   language: 'zh'
+  palette:
+    primary: 'Brown'
+    accent: 'Deep Orange'
 extra:
   search:
     language: 'jp'
-  palette:
-    primary: 'Deep Purple'
-    accent: 'Pink'
+  
