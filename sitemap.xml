@@ -1,18 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://langzaigg.github.io/TheSacredSoil/</loc>
-     <lastmod>2019-02-03</lastmod>
+     <loc>https://thesacredsoil.readthedocs.io/</loc>
+     <lastmod>2019-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://langzaigg.github.io/TheSacredSoil/世界设定/</loc>
-     <lastmod>2019-02-03</lastmod>
+     <loc>https://thesacredsoil.readthedocs.io/世界设定/</loc>
+     <lastmod>2019-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://langzaigg.github.io/TheSacredSoil/圣土世界自订拓展/</loc>
-     <lastmod>2019-02-03</lastmod>
+     <loc>https://thesacredsoil.readthedocs.io/圣土世界自订拓展/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/圣土世界自订拓展（旧）/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/基础职业/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/替代职业能力/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/种族/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/专长/一般专长/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/专长/神圣专长/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/专长/超魔专长/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/刺客法术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/吟游诗人法术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/圣武士神术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/巡林客神术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/德鲁伊神术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/战法师法术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/暗黑卫士法术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/暮刃法术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/法师术士法术/</loc>
+     <lastmod>2019-02-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://thesacredsoil.readthedocs.io/扩展内容/职业法术列表（参考）/牧师神术/</loc>
+     <lastmod>2019-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
